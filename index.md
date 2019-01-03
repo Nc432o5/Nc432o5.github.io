@@ -14,7 +14,7 @@ I am a python programmer who *really* likes to code.
 
 ## Stack Overflow
 
-I go on [Stack Overflow][stackoverflow] sometimes.
+I go on [Stack Overflow][stackoverflow] sometimes to answer python questions.
 
 <a href="https://stackoverflow.com/users/10236724/ethan-k">
 <img src="https://stackoverflow.com/users/flair/10236724.png?theme=clean" width="208" height="58" alt="profile for Ethan K at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ethan K at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
