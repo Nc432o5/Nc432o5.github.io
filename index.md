@@ -1,14 +1,25 @@
 ---
-title: Welcome to Ethan K's Website!
-description: Hi!
+title: Home
 layout: default
 ---
 
-# Test
+# Welcome to Ethan K's Website!
 
-`code`
-    code
-    
-```
-code
-```
+## Coding & Python
+
+I am a python programmer who *really* likes to code.
+
+### Cool Comic:
+[![xkcd.com/353/][xkcd-python-img]][xkcd-python]
+
+## Stack Overflow
+
+I go on [Stack Overflow][stackoverflow] sometimes.
+
+<a href="https://stackoverflow.com/users/10236724/ethan-k">
+<img src="https://stackoverflow.com/users/flair/10236724.png?theme=clean" width="208" height="58" alt="profile for Ethan K at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ethan K at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
+  [xkcd-python]: https://xkcd.com/353
+  [xkcd-python-img]: https://imgs.xkcd.com/comics/python.png
+  [stackoverflow]: https://stackoverflow.com
