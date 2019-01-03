@@ -1,11 +1,13 @@
 ---
-title: Welcome!
-layout: post
+title: Welcome to Ethan K's Website!
+layout: default
 ---
 
-#Test
+# Test
 
 `code`
     code
     
-```code```
+```
+code
+```
