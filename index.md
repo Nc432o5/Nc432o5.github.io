@@ -1,3 +1,8 @@
+---
+title: Welcome!
+layout: post
+---
+
 #Test
 
 `code`
