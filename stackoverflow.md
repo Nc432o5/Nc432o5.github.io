@@ -1,5 +1,6 @@
 ---
 title: Stack Overflow
+permalink: /stackoverflow
 layout: default
 ---
 
