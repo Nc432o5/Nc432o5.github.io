@@ -19,10 +19,13 @@ layout: default
  
 ## How to post a good answer:
  - Make sure to **answer the question**!
- - You can post a simple answer and edit it, but try to make it be as helpful as possiable.
+ - You can post a simple answer, but later edit it and try to make it be as helpful as possiable.
 
 ## How to be a part of the community:
- - *List coming soon, please stand by...*
+ - Upvote and Downvote
+ - Comment
+ - Flag and Close Vote
+ - Participate in Meta
 
 ## Things to link to in comments:
  - [idownvotedbecau.se](http://idownvotedbecau.se)
