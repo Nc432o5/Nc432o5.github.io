@@ -30,6 +30,7 @@ layout: default
 ## Things to link to in comments:
  - [idownvotedbecau.se](http://idownvotedbecau.se)
  - [shouldiblamecaching.com](http://shouldiblamecaching.com)
+ - [javascriptisnotjava.com/](http://javascriptisnotjava.com/)
 
 ### *More soon...*
 
